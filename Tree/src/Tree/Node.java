@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Mohammed El-Agha
+ * @author Abdullah Shublaq
  */
 public class Node <E>{
     private List<Node<E>> children = new ArrayList<Node<E>>();
